@@ -1,7 +1,7 @@
 # ALPHA Shop
 
 專案照片
-![image](https://raw.githubusercontent.com/tsouhare/ac-shop-2/blob/main/public/photo/screenshot2.png)
+![image](https://raw.githubusercontent.com/tsouhare/ac-shop-2/main/public/photo/screenshot.png)
 
 ### install
 
